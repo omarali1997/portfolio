@@ -1,3 +1,4 @@
-# Modify this portfolio
+># Omar Ali's portflolio
 
-Make it your own! 
+
+## URL : https://omar-ali-portfolio-2022.netlify.app/
